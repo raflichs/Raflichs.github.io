@@ -1,0 +1,27 @@
+.slider h3,
+.slider h5{
+	text-shadow: 1px 1px 3px rgba(0,0,0)
+
+}
+
+.Parallax-container{
+	height: 20%;
+}
+
+.parallax img{
+	opacity: 0.8 !important;
+}
+
+.client img{
+	max-width: : 500px;
+	max-height: 200px;
+}
+
+section,footer{
+	padding: 20px 0;
+}
+
+hr{
+	width:250px;
+	border-top:3px solid #999;
+}
